@@ -1,11 +1,11 @@
-About r-censusapi
-=================
+About r-censusapi-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-censusapi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hrecht/censusapi
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-censusapi-feedstock/blob/main/LICENSE.txt)
 
 Summary: A wrapper for the U.S. Census Bureau APIs that returns data frames of Census data and metadata. Available datasets include the Decennial Census, American Community Survey, Small Area Health Insurance Estimates, Small Area Income and Poverty Estimates, Population Estimates and Projections, and more.
 
