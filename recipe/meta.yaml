@@ -26,10 +26,12 @@ requirements:
     - r-base
     - r-httr
     - r-jsonlite
+    - r-rlang
   run:
     - r-base
     - r-httr
     - r-jsonlite
+    - r-rlang
 
 test:
   commands:
